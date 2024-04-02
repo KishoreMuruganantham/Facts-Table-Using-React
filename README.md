@@ -64,5 +64,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Replace `KishoreMuruganantham` and `Facts Table` with your GitHub username and repository name, respectively. You can also customize the content further based on your project's specific features and requirements. Additionally, you may want to include a GIF or screenshot of your application in action to make the README more visually appealing and informative.

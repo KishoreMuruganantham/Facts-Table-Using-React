@@ -1,11 +1,3 @@
-To add a GIF to your README.md file, you can follow these steps:
-
-1. Ensure you have a GIF file that showcases your project. If you don't have one, you can create a screencast or record a demonstration of your application in action using tools like Loom, Screencastify, or OBS Studio.
-
-2. Place the GIF file in your project's directory.
-
-3. Update the README.md file to include the GIF:
-
 ```markdown
 # Today I Learned
 

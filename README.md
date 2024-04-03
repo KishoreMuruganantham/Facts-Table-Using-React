@@ -1,11 +1,7 @@
-Sure, here's a template for a README.md file for your React project on GitHub:
-
 ```markdown
 # Today I Learned
 
 A web application built with React where users can share interesting facts with the world.
-
-![Demo](demo.gif)
 
 ## Features
 

@@ -1,6 +1,17 @@
+To add a GIF to your README.md file, you can follow these steps:
+
+1. Ensure you have a GIF file that showcases your project. If you don't have one, you can create a screencast or record a demonstration of your application in action using tools like Loom, Screencastify, or OBS Studio.
+
+2. Place the GIF file in your project's directory.
+
+3. Update the README.md file to include the GIF:
+
+```markdown
 # Today I Learned
 
 A web application built with React where users can share interesting facts with the world.
+
+![Demo](demo.gif) <!-- Replace 'demo.gif' with the filename of your GIF -->
 
 ## Features
 
@@ -28,3 +39,35 @@ A web application built with React where users can share interesting facts with 
 
    ```bash
    git clone https://github.com/KishoreMuruganantham/Facts-Table-Using-React.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Facts-Table-Using-React
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+### Usage
+
+1. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+2. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the app.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```

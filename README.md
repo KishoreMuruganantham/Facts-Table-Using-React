@@ -1,9 +1,11 @@
+Sure, here's a template for a README.md file for your React project on GitHub:
+
 ```markdown
 # Today I Learned
 
 A web application built with React where users can share interesting facts with the world.
 
-![Demo](demo.gif) <!-- Replace 'demo.gif' with the filename of your GIF -->
+![Demo](demo.gif)
 
 ## Features
 
@@ -63,3 +65,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
